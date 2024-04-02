@@ -59,5 +59,4 @@ disbursements.
 ### DASHBOARD 3: DETAILS
 ### GRID
 Need for a comprehensive 'Details Dashboard' that provides a consolidated view of all the essential
-information within our loan data. This Details Dashboard aims to offer a holistic snapshot of key loan-related
-metrics and data points, enabling users to access critical information efficiently.
+information within our loan data. 
